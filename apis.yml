@@ -1,0 +1,53 @@
+aid: hinge
+url: https://raw.githubusercontent.com/api-evangelist/hinge/refs/heads/main/apis.yml
+name: Hinge
+type: Index
+kind: company
+description: >-
+  Hinge is a relationship-oriented dating app owned by Match Group, marketed
+  as "designed to be deleted" with a product focus on prompt-driven profiles
+  and compatibility matching intended to drive actual dates rather than
+  prolonged in-app engagement. Hinge Labs is the company's in-house research
+  arm publishing data on dating behavior and outcomes. Hinge is a consumer
+  mobile product; no public developer or partner API has been identified.
+  This entry catalogs the company surface for the API Evangelist index.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consumer
+tags:
+  - Dating
+  - Relationships
+  - Consumer App
+  - Mobile
+  - Match Group
+  - Social
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://hinge.co/
+  - type: Mission
+    url: https://hinge.co/mission
+  - type: Labs
+    url: https://hinge.co/labs
+  - type: Newsroom
+    url: https://hinge.co/newsroom
+  - type: TrustAndSafety
+    url: https://hinge.co/trustandsafety
+  - type: PrivacyPolicy
+    url: https://hinge.co/privacy
+  - type: Terms
+    url: https://hinge.co/terms
+  - type: Support
+    url: https://hingeapp.zendesk.com/hc/en-us
+  - type: Careers
+    url: https://hinge.co/careers
+  - type: Parent
+    url: https://mtch.com/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hinge/
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
