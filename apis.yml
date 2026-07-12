@@ -26,6 +26,10 @@ tags:
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/hinge-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/hinge-domain-security.yml
   - type: Website
     url: https://hinge.co/
   - type: Mission
